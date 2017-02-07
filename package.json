@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "description": "test project",
+  "main": "index.html",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "Alan"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0"
+  }
+}
